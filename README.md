@@ -1,6 +1,6 @@
 # AWS CPU Monitor
 
-Monitor your EC2 instance's CPU usage in style.
+Monitor your AWS CPU usage with a modern UI.
 
 Pick a time range, enter an IP, and get a beautiful live chart — powered by Flask, Chart.js, and CloudWatch.
 
